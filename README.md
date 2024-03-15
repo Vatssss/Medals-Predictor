@@ -11,6 +11,10 @@ We'll use data from historical Olympic games. We'll try to predict how many meda
 6. Split your data.
 7. Train a model.
 
+# Code
+File overview:
+[medalPredictior.ipynb](https://github.com/Vatssss/Medals-Predictor/blob/main/medalPredictor.ipynb) - the main project code
+
 # Data
 We'll be using data from the Olympics, which was originally on Kaggle.
 
