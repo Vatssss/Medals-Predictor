@@ -15,4 +15,5 @@ We'll use data from historical Olympic games. We'll try to predict how many meda
 We'll be using data from the Olympics, which was originally on Kaggle.
 
 You can download the files used in this project here:
-teams.csv - the team-level data that we use in this project.
+
+https://github.com/Vatssss/Medals-Predictor/blob/main/teams.csv - the team-level data that we use in this project.
