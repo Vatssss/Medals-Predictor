@@ -10,3 +10,9 @@ We'll use data from historical Olympic games. We'll try to predict how many meda
 5. Pick an error metric.
 6. Split your data.
 7. Train a model.
+
+# Data
+We'll be using data from the Olympics, which was originally on Kaggle.
+
+You can download the files used in this project here:
+teams.csv - the team-level data that we use in this project.
