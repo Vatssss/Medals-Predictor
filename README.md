@@ -1,5 +1,7 @@
 # Medals-Predictor
-We'll use data from historical Olympic games. We'll try to predict how many medals a country will win based on historical and current data.
+We'll use data from historical Olympic games (120 years of Olympic history: athletes and results)
+
+We'll try to predict how many medals a country will win based on historical and current data.
 
 # Project steps
 
@@ -13,10 +15,11 @@ We'll use data from historical Olympic games. We'll try to predict how many meda
 
 # Code
 File overview:
+
 [medalPredictior.ipynb](https://github.com/Vatssss/Medals-Predictor/blob/main/medalPredictor.ipynb) - the main project code
 
 # Data
-We'll be using data from the Olympics, which was originally on Kaggle.
+We'll be using data from the Olympics, which was originally on [Kaggle](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results).
 
 You can download the files used in this project here:
 
