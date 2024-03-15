@@ -16,4 +16,4 @@ We'll be using data from the Olympics, which was originally on Kaggle.
 
 You can download the files used in this project here:
 
-https://github.com/Vatssss/Medals-Predictor/blob/main/teams.csv - the team-level data that we use in this project.
+[teams.csv](https://github.com/Vatssss/Medals-Predictor/blob/main/teams.csv) - the team-level data that we use in this project.
