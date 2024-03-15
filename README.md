@@ -1,5 +1,5 @@
 # Medals-Predictor
-We'll use data from historical Olympic games (120 years of Olympic history: athletes and results)
+Using data from historical Olympic games (120 years of Olympic history: athletes and results)
 
 We'll try to predict how many medals a country will win based on historical and current data.
 
@@ -19,8 +19,13 @@ File overview:
 [medalPredictior.ipynb](https://github.com/Vatssss/Medals-Predictor/blob/main/medalPredictor.ipynb) - the main project code
 
 # Data
-We'll be using data from the Olympics, which was originally on [Kaggle](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results).
+By using data from the Olympics, which was originally on [Kaggle](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results).
 
-You can download the files used in this project here:
 
-[teams.csv](https://github.com/Vatssss/Medals-Predictor/blob/main/teams.csv) - the team-level data that we use in this project.
+[teams.csv](https://github.com/Vatssss/Medals-Predictor/blob/main/teams.csv) - the team-level data that used in this project.
+
+# Libraries used
+1. Pandas
+2. Scikit learn
+3. Seaborn
+4. Numpy
